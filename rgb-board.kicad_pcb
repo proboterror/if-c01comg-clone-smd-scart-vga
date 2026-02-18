@@ -25466,32 +25466,10 @@
 			(justify left)
 		)
 	)
-	(gr_text "VD"
-		(at 68.15 113.4 90)
-		(layer "F.SilkS")
-		(uuid "0c8ecd06-1ae1-4e2e-a087-ecf0c3d1c0fc")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-		)
-	)
 	(gr_text "JVC IF-C01COMG (RGB/YPbPr) SCART/BNC SMD CLONE BOARD\n(2021) Martin Hejnfelt (martin@hejnfelt.com)\n\nDual input idea credit goes to James Vanderloeff!\n"
 		(at 182.45 39.675 0)
 		(layer "F.SilkS")
 		(uuid "1ae69545-2af3-4f06-8ec3-7ab88ba99a7f")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-		)
-	)
-	(gr_text "R/R-Y"
-		(at 68.1 43.35 90)
-		(layer "F.SilkS")
-		(uuid "1ff12c61-a4b5-4866-8cb6-d7d5b8304515")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -25510,28 +25488,6 @@
 			)
 		)
 	)
-	(gr_text "G/Y"
-		(at 68.15 60.8 90)
-		(layer "F.SilkS")
-		(uuid "28fa3806-3652-43c4-8c4f-ceea2e86248c")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-		)
-	)
-	(gr_text "B/B-Y"
-		(at 68.15 78.4 90)
-		(layer "F.SilkS")
-		(uuid "6d731535-825d-4f03-8f10-76be83c715ff")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-		)
-	)
 	(gr_text "Do NOT mount\nthis section\nwhen using SCART"
 		(at 110.49 112.9665 90)
 		(layer "F.SilkS")
@@ -25540,17 +25496,6 @@
 			(font
 				(size 1.2 1.2)
 				(thickness 0.25)
-			)
-		)
-	)
-	(gr_text "HD/CS"
-		(at 68.15 96 90)
-		(layer "F.SilkS")
-		(uuid "dbf34823-2cf8-4566-be4c-fe2983e0dccf")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
 			)
 		)
 	)
