@@ -26346,28 +26346,6 @@
 			)
 		)
 	)
-	(gr_text "RIGHT"
-		(at 62.025 130.425 90)
-		(layer "F.SilkS")
-		(uuid "247557f0-9332-4224-80fb-1a0b2444d5a9")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-		)
-	)
-	(gr_text "LEFT"
-		(at 62.025 149.475 90)
-		(layer "F.SilkS")
-		(uuid "ef487ab7-fc30-411a-8812-c79f9d303b71")
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-			)
-		)
-	)
 	(segment
 		(start 88.916 45.7385)
 		(end 88.916 42.8775)
