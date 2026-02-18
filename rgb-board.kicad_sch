@@ -6097,6 +6097,7 @@
 	)
 	(label "HD"
 		(at 223.52 43.18 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6107,6 +6108,7 @@
 	)
 	(label "AUDIO_EXT_R"
 		(at 172.72 146.05 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6117,6 +6119,7 @@
 	)
 	(label "HD"
 		(at 267.97 36.83 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6127,6 +6130,7 @@
 	)
 	(label "G/Y"
 		(at 15.24 45.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6137,6 +6141,7 @@
 	)
 	(label "Y"
 		(at 267.97 24.13 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6147,6 +6152,7 @@
 	)
 	(label "VCC+14V"
 		(at 255.27 74.93 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6157,6 +6163,7 @@
 	)
 	(label "R/R-Y"
 		(at 90.17 48.26 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6167,6 +6174,7 @@
 	)
 	(label "R-Y"
 		(at 157.48 54.61 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6177,6 +6185,7 @@
 	)
 	(label "AUDIO_EXT_L"
 		(at 172.72 162.56 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6187,6 +6196,7 @@
 	)
 	(label "HD/CS"
 		(at 60.96 135.89 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6197,6 +6207,7 @@
 	)
 	(label "B-Y"
 		(at 81.28 102.87 90)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6207,6 +6218,7 @@
 	)
 	(label "G/Y"
 		(at 30.48 158.75 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6217,6 +6229,7 @@
 	)
 	(label "SLOT_SCA2"
 		(at 255.27 92.71 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6227,6 +6240,7 @@
 	)
 	(label "AUDIO_EXT_R"
 		(at 96.52 157.48 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6237,6 +6251,7 @@
 	)
 	(label "AUDIO_L"
 		(at 86.36 170.18 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6247,6 +6262,7 @@
 	)
 	(label "AUDIO_INT_R"
 		(at 96.52 152.4 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6257,6 +6273,7 @@
 	)
 	(label "VCC+14V"
 		(at 255.27 72.39 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6267,6 +6284,7 @@
 	)
 	(label "AUDIO_INT_L"
 		(at 96.52 167.64 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6277,6 +6295,7 @@
 	)
 	(label "VD"
 		(at 171.45 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6287,6 +6306,7 @@
 	)
 	(label "SLOT_DET"
 		(at 255.27 62.23 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6297,6 +6317,7 @@
 	)
 	(label "AUDIO_"
 		(at 167.64 123.19 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6307,6 +6328,7 @@
 	)
 	(label "AUDIO_INT_R"
 		(at 111.76 137.16 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6317,6 +6339,7 @@
 	)
 	(label "AUDIO"
 		(at 127 143.51 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6327,6 +6350,7 @@
 	)
 	(label "VD_"
 		(at 267.97 39.37 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6337,6 +6361,7 @@
 	)
 	(label "AUDIO_R"
 		(at 60.96 181.61 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6347,6 +6372,7 @@
 	)
 	(label "Y"
 		(at 80.01 52.07 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6355,18 +6381,9 @@
 		)
 		(uuid "8ba31825-25fb-439b-b9f6-eaf21dd098c0")
 	)
-	(label "R/R-Y"
-		(at 148.59 181.61 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "9109ffac-3bc1-4d42-bb79-32fdd2b0f54f")
-	)
 	(label "VCC+14V"
 		(at 190.5 127 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6377,6 +6394,7 @@
 	)
 	(label "B/B-Y"
 		(at 30.48 168.91 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6387,6 +6405,7 @@
 	)
 	(label "HD/CS"
 		(at 167.64 36.83 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6397,6 +6416,7 @@
 	)
 	(label "SLOT_SCA2"
 		(at 255.27 54.61 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6407,6 +6427,7 @@
 	)
 	(label "B-Y"
 		(at 267.97 26.67 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6417,6 +6438,7 @@
 	)
 	(label "AUDIO_EXT_L"
 		(at 96.52 172.72 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6427,6 +6449,7 @@
 	)
 	(label "B/B-Y"
 		(at 13.97 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6437,6 +6460,7 @@
 	)
 	(label "SLOT_DET"
 		(at 238.76 92.71 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6445,38 +6469,9 @@
 		)
 		(uuid "bf41e237-0470-4a6d-b15f-04412775fa53")
 	)
-	(label "HD/CS"
-		(at 133.35 162.56 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "c6cac6fb-140e-4178-b6b4-f0e38e677bc7")
-	)
-	(label "B/B-Y"
-		(at 148.59 167.64 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "cfb91ab3-337f-4bcb-bac8-354526716911")
-	)
-	(label "G/Y"
-		(at 148.59 152.4 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "d2ffa976-4573-46df-8156-ae8c1682e0e3")
-	)
 	(label "R/R-Y"
 		(at 30.48 148.59 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6487,6 +6482,7 @@
 	)
 	(label "AUDIO_L"
 		(at 60.96 171.45 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6497,6 +6493,7 @@
 	)
 	(label "AUDIO_INT_L"
 		(at 111.76 143.51 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6507,6 +6504,7 @@
 	)
 	(label "AUDIO_"
 		(at 267.97 82.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6517,6 +6515,7 @@
 	)
 	(label "AUDIO_R"
 		(at 86.36 154.94 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6527,6 +6526,7 @@
 	)
 	(label "VD_"
 		(at 223.52 82.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6537,6 +6537,7 @@
 	)
 	(label "R-Y"
 		(at 267.97 29.21 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -6545,18 +6546,9 @@
 		)
 		(uuid "ed39cf07-248e-4b0e-8e73-27c069837c41")
 	)
-	(label "VD"
-		(at 133.35 177.8 0)
-		(effects
-			(font
-				(size 1.524 1.524)
-			)
-			(justify left bottom)
-		)
-		(uuid "f7e6b5bf-0d91-4b33-a3a7-7f44214b839a")
-	)
 	(label "AUDIO"
 		(at 90.17 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -16246,139 +16238,6 @@
 		)
 	)
 	(symbol
-		(lib_id "rgb-board-rescue:Conn_Coaxial-rgb-board-rescue")
-		(at 144.78 152.4 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efe8da4")
-		(property "Reference" "J5"
-			(at 144.526 149.352 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 141.859 152.4 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "bnc-tht:BNC-THT"
-			(at 144.78 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 152.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a28d2ebd-2c0e-4234-8797-59c74b7846c9")
-		)
-		(pin "2"
-			(uuid "ae4d1966-6ec6-4814-9fb6-54e4608b32d6")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "J5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "rgb-board-rescue:GND-rgb-board-rescue")
-		(at 144.78 157.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efe9154")
-		(property "Reference" "#PWR070"
-			(at 144.78 163.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 144.78 161.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 144.78 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 157.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6394f57a-4d16-477b-847f-5040eefeeec8")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "#PWR070")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "rgb-board-rescue:GND-rgb-board-rescue")
 		(at 60.96 140.97 90)
 		(unit 1)
@@ -16438,538 +16297,6 @@
 			(project "rgb-board"
 				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
 					(reference "#PWR071")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "rgb-board-rescue:Conn_Coaxial-rgb-board-rescue")
-		(at 144.78 167.64 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efeb6c2")
-		(property "Reference" "J7"
-			(at 144.526 164.592 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 141.859 167.64 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "bnc-tht:BNC-THT"
-			(at 144.78 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5f393f80-b883-4e85-89cc-85beaa6a81fd")
-		)
-		(pin "1"
-			(uuid "af94eb6a-538d-46b0-8188-c3781965c608")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "rgb-board-rescue:Conn_Coaxial-rgb-board-rescue")
-		(at 144.78 181.61 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efebc14")
-		(property "Reference" "J9"
-			(at 144.526 178.562 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 141.859 181.61 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "bnc-tht:BNC-THT"
-			(at 144.78 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7ad389f5-9b59-4790-b014-4704b16de984")
-		)
-		(pin "2"
-			(uuid "db56cf1d-c8b3-4fc8-a34d-558998cb1acc")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "J9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "rgb-board-rescue:GND-rgb-board-rescue")
-		(at 144.78 172.72 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efebfd8")
-		(property "Reference" "#PWR072"
-			(at 144.78 179.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 144.78 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 144.78 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 172.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f74e83f3-e524-4505-8a37-c01272c639d7")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "#PWR072")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "rgb-board-rescue:GND-rgb-board-rescue")
-		(at 144.78 186.69 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efec0df")
-		(property "Reference" "#PWR073"
-			(at 144.78 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 144.78 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 144.78 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "058e19a1-6cfe-4e93-89fd-3cafe8fb56a7")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "#PWR073")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "rgb-board-rescue:Conn_Coaxial-rgb-board-rescue")
-		(at 129.54 162.56 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efec1e6")
-		(property "Reference" "J6"
-			(at 129.286 159.512 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 126.619 162.56 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "bnc-tht:BNC-THT"
-			(at 129.54 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 129.54 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 129.54 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bb235012-7fd0-43be-b8dc-7b9e18694524")
-		)
-		(pin "2"
-			(uuid "dc43a8a4-f658-4aee-adde-5b977894a39c")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "J6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "rgb-board-rescue:Conn_Coaxial-rgb-board-rescue")
-		(at 129.54 177.8 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efec450")
-		(property "Reference" "J8"
-			(at 129.286 174.752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_Coaxial"
-			(at 126.619 177.8 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "bnc-tht:BNC-THT"
-			(at 129.54 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 129.54 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 129.54 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3308db94-c8af-49b2-aae6-be87f28b1c03")
-		)
-		(pin "2"
-			(uuid "1f7f5459-5916-46e3-b861-73004429ee7f")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "J8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "rgb-board-rescue:GND-rgb-board-rescue")
-		(at 129.54 182.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efec5ce")
-		(property "Reference" "#PWR074"
-			(at 129.54 189.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 129.54 186.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 129.54 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 129.54 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 129.54 182.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5c806d41-f2f6-493c-98d8-bb3a70b66f24")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "#PWR074")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "rgb-board-rescue:GND-rgb-board-rescue")
-		(at 129.54 167.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005efec6db")
-		(property "Reference" "#PWR075"
-			(at 129.54 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 129.54 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 129.54 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 129.54 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 129.54 167.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c7427737-79b9-4b8d-92c6-d651639b472b")
-		)
-		(instances
-			(project "rgb-board"
-				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
-					(reference "#PWR075")
 					(unit 1)
 				)
 			)
