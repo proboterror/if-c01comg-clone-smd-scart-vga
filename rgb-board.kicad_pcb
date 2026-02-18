@@ -25123,16 +25123,6 @@
 		(uuid "00000000-0000-0000-0000-00005ff474c2")
 	)
 	(gr_line
-		(start 65.55 137.6)
-		(end 65.55 135.525)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "07b4d4bc-8b80-44ce-9e4e-d40cdaea29dc")
-	)
-	(gr_line
 		(start 71.12 104.14)
 		(end 106.68 104.14)
 		(stroke
@@ -25153,36 +25143,6 @@
 		(uuid "0d268fdc-e0bc-4c43-b01e-db839d93e698")
 	)
 	(gr_line
-		(start 70.575 142.35)
-		(end 70.575 145.25)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "10f5ecc2-77c3-4079-b718-88b5918a43af")
-	)
-	(gr_line
-		(start 75.275 136.175)
-		(end 75.975 135.475)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "18737303-6c4b-4043-bb02-eab96b7503b0")
-	)
-	(gr_line
-		(start 65.55 135.475)
-		(end 65.55 135.525)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "199617d4-8cf2-4a3b-9811-ec28f1b040f8")
-	)
-	(gr_line
 		(start 106.68 121.92)
 		(end 71.12 121.92)
 		(stroke
@@ -25193,56 +25153,6 @@
 		(uuid "3d2e06b1-820a-42a5-975f-278b93994bb2")
 	)
 	(gr_line
-		(start 70.55 135.475)
-		(end 65.55 135.475)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "3e669c74-df6e-40c9-84b8-e8bd198def8a")
-	)
-	(gr_line
-		(start 75.275 145.225)
-		(end 75.275 136.175)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "45c68b64-e02f-490c-8747-e90386f579a8")
-	)
-	(gr_line
-		(start 65.55 142.375)
-		(end 65.55 145.25)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "7265a2be-a9cb-468b-8b59-cec6cdadca1a")
-	)
-	(gr_line
-		(start 70.55 135.5)
-		(end 76.675 135.5)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "b4d54afb-6111-4def-b5e2-44706c3246be")
-	)
-	(gr_line
-		(start 70.55 137.65)
-		(end 70.55 135.475)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "d17e98df-6796-4681-b087-d8434f63aaa7")
-	)
-	(gr_line
 		(start 236.5 127.4)
 		(end 236.5 127.375)
 		(stroke
@@ -25251,16 +25161,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "d6c837ea-8adf-44ca-ae91-43688b47eb51")
-	)
-	(gr_line
-		(start 65.55 145.25)
-		(end 75.275 145.25)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "f41be9bd-8271-4a5c-af91-081faa5de386")
 	)
 	(gr_line
 		(start 56.8 93.7)
@@ -25641,18 +25541,6 @@
 				(size 1.2 1.2)
 				(thickness 0.25)
 			)
-		)
-	)
-	(gr_text "Bridge here for input (BNC)\nand don't mount SW1"
-		(at 76.925 135.5 0)
-		(layer "F.SilkS")
-		(uuid "d543aba1-2cb8-449c-af2b-94a6ce67026b")
-		(effects
-			(font
-				(size 1.2 1.2)
-				(thickness 0.25)
-			)
-			(justify left)
 		)
 	)
 	(gr_text "HD/CS"
