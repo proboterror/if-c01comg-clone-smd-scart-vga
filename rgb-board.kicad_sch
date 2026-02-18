@@ -5975,6 +5975,10 @@
 		(uuid "939c77bb-4675-41c9-9add-89f079a47b4b")
 	)
 	(no_connect
+		(at 132.08 242.57)
+		(uuid "98c24e2f-590a-46aa-be4f-94a6a83989ca")
+	)
+	(no_connect
 		(at 267.97 49.53)
 		(uuid "9b8c5d34-a4a0-4aa0-aa09-2c1f7cec6d0f")
 	)
@@ -6001,6 +6005,10 @@
 	(no_connect
 		(at 267.97 41.91)
 		(uuid "b81e3eb5-b980-4583-8b49-3bbc6083e6ad")
+	)
+	(no_connect
+		(at 86.36 252.73)
+		(uuid "b849494d-85d3-4d37-92d7-643908c1843b")
 	)
 	(no_connect
 		(at 35.56 228.6)
@@ -7661,6 +7669,17 @@
 		)
 		(uuid "036bb56c-2cfc-4cb6-9ee1-dde20a580757")
 	)
+	(label "VGA_SELECT"
+		(at 104.14 250.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "04921729-5b4d-4826-81ba-c79156126b50")
+	)
 	(label "HD"
 		(at 267.97 36.83 0)
 		(fields_autoplaced yes)
@@ -7738,7 +7757,18 @@
 		)
 		(uuid "237b34c3-564b-4c6e-bca5-1ffe4657a83a")
 	)
-	(label "HD/CS"
+	(label "SCART_R"
+		(at 86.36 222.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "2b1fb1db-fc9f-45c0-871f-5979d183d627")
+	)
+	(label "SCART_SYNC"
 		(at 60.96 135.89 0)
 		(fields_autoplaced yes)
 		(effects
@@ -7748,6 +7778,17 @@
 			(justify left bottom)
 		)
 		(uuid "30e7c9ae-7ea3-4e75-aa4a-ba9e0043d015")
+	)
+	(label "VGA_G"
+		(at 86.36 227.33 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "322e7d8d-d496-48fe-8da7-fa991cc18172")
 	)
 	(label "B-Y"
 		(at 81.28 102.87 90)
@@ -7760,7 +7801,18 @@
 		)
 		(uuid "4148c2e7-9620-49be-8c95-925e37d2d119")
 	)
-	(label "G/Y"
+	(label "VGA_R"
+		(at 86.36 215.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "422c55d3-ed1e-464c-9bda-fbd09170880e")
+	)
+	(label "SCART_G"
 		(at 30.48 158.75 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7870,6 +7922,17 @@
 		)
 		(uuid "68415d1f-7d77-494f-b584-687f0fba9873")
 	)
+	(label "H_SYNC"
+		(at 132.08 237.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "68c7fade-3c01-4f2a-a41b-661f55708e62")
+	)
 	(label "SLOT_DET"
 		(at 255.27 62.23 180)
 		(fields_autoplaced yes)
@@ -7902,6 +7965,17 @@
 			(justify right bottom)
 		)
 		(uuid "705ba142-948f-421a-abcb-81436c863180")
+	)
+	(label "VGA_B"
+		(at 86.36 237.49 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "76137f19-5216-4759-8049-ace160183d68")
 	)
 	(label "AUDIO_EXT_L"
 		(at 181.61 236.22 0)
@@ -7969,7 +8043,7 @@
 		)
 		(uuid "919a0c5f-1a6e-44b1-8b2a-5164e904b9b4")
 	)
-	(label "B/B-Y"
+	(label "SCART_B"
 		(at 30.48 168.91 180)
 		(fields_autoplaced yes)
 		(effects
@@ -7991,6 +8065,17 @@
 		)
 		(uuid "9b560e06-0cb6-411a-b381-774a43307491")
 	)
+	(label "SCART_B"
+		(at 86.36 242.57 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "9c358bd4-abdc-487b-9f4d-23c8a735e68d")
+	)
 	(label "HD/CS"
 		(at 167.64 36.83 0)
 		(fields_autoplaced yes)
@@ -8001,6 +8086,28 @@
 			(justify left bottom)
 		)
 		(uuid "9dae28ba-c305-476c-b141-bb9f1661a330")
+	)
+	(label "VGA_SELECT"
+		(at 132.08 224.79 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "9eb8293a-3e7d-4a77-a015-a567cc20a133")
+	)
+	(label "VD"
+		(at 147.32 245.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "a2108778-7b12-4bbd-82c3-6927259851d4")
 	)
 	(label "SLOT_SCA2"
 		(at 255.27 54.61 180)
@@ -8024,6 +8131,17 @@
 		)
 		(uuid "a888d526-1c9b-4146-a72f-e0a1863dfcf1")
 	)
+	(label "SCART_SYNC"
+		(at 132.08 232.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "aa922848-0fe1-47b3-bfb8-b1f07ea5d9cd")
+	)
 	(label "AUDIO_EXT_L"
 		(at 96.52 172.72 0)
 		(fields_autoplaced yes)
@@ -8034,6 +8152,28 @@
 			(justify left bottom)
 		)
 		(uuid "ac5cee2e-8720-47f9-9a8c-2ad688fc321a")
+	)
+	(label "SCART_G"
+		(at 86.36 232.41 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "b09283f3-563c-4c02-b951-83e5f71de90b")
+	)
+	(label "G{slash}Y"
+		(at 104.14 229.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "b13e88ed-d989-43d6-843e-8b64d8629dca")
 	)
 	(label "B/B-Y"
 		(at 13.97 96.52 0)
@@ -8057,7 +8197,7 @@
 		)
 		(uuid "bf41e237-0470-4a6d-b15f-04412775fa53")
 	)
-	(label "R/R-Y"
+	(label "SCART_R"
 		(at 30.48 148.59 180)
 		(fields_autoplaced yes)
 		(effects
@@ -8134,6 +8274,17 @@
 		)
 		(uuid "e231dff2-6908-4d9c-97be-77ea0409da95")
 	)
+	(label "R{slash}R-Y"
+		(at 104.14 219.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "ecf44fa7-0171-4f7c-bdce-73c619b490fe")
+	)
 	(label "R-Y"
 		(at 267.97 29.21 0)
 		(fields_autoplaced yes)
@@ -8144,6 +8295,39 @@
 			(justify left bottom)
 		)
 		(uuid "ed39cf07-248e-4b0e-8e73-27c069837c41")
+	)
+	(label "V_SYNC"
+		(at 132.08 247.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify right bottom)
+		)
+		(uuid "f222a763-5914-4900-a07a-8f7acc9e5be9")
+	)
+	(label "B{slash}B-Y"
+		(at 104.14 240.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "f5d41936-0ded-4e25-bd0a-18871d6c29c7")
+	)
+	(label "HD{slash}CS"
+		(at 147.32 234.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left bottom)
+		)
+		(uuid "f918f0bb-4ca8-44f8-8f62-2e7d1a5c024c")
 	)
 	(label "H_SYNC"
 		(at 50.8 231.14 0)
@@ -18583,6 +18767,71 @@
 		)
 	)
 	(symbol
+		(lib_id "rgb-board-rescue:+12V-rgb-board-rescue")
+		(at 86.36 247.65 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "122ba6c0-7ff7-41a8-9b08-dbf612eed1a3")
+		(property "Reference" "#PWR077"
+			(at 90.17 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 81.28 247.65 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 247.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "71a8e065-7088-4467-b1fd-a862f26bfab2")
+		)
+		(instances
+			(project "rgb-board"
+				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
+					(reference "#PWR077")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 184.15 231.14 180)
 		(unit 1)
@@ -18650,13 +18899,13 @@
 	)
 	(symbol
 		(lib_id "Relay:G6K-2")
-		(at 139.7 234.95 270)
+		(at 139.7 234.95 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "370d9a3e-93f6-44aa-869d-ff42f3bc65a4")
 		(property "Reference" "K1"
 			(at 139.7 214.63 90)
@@ -19004,14 +19253,81 @@
 		)
 	)
 	(symbol
-		(lib_id "pbsw_4pdt:PBSW_4PDT")
-		(at 95.25 234.95 90)
+		(lib_id "power:GND")
+		(at 147.32 224.79 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
+		(uuid "cc1de449-98e6-4d7e-acfc-4234f429db94")
+		(property "Reference" "#PWR076"
+			(at 153.67 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 151.13 224.7899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 147.32 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 147.32 224.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9412e866-58f3-485a-a122-6155c8ecdd06")
+		)
+		(instances
+			(project "rgb-board"
+				(path "/fe5317b8-a5e9-4831-982f-0ff58f8d239d"
+					(reference "#PWR076")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "pbsw_4pdt:PBSW_4PDT")
+		(at 95.25 234.95 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(uuid "ebae2807-a93d-43a7-8124-a11329f6e322")
 		(property "Reference" "SW2"
 			(at 95.25 210.82 90)
