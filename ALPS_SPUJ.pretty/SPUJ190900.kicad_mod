@@ -1,0 +1,164 @@
+(footprint "SPUJ190900"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 5 0)
+		(layer "F.SilkS")
+		(uuid "5b83033c-cd87-4452-899c-6d48f895d364")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SPUJ190900"
+		(at 0 -5 0)
+		(layer "F.Fab")
+		(uuid "39736770-ccaa-41bc-9dca-4cd6936a1cef")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 3.75 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "140a990f-5dca-46c6-ba6e-127a61660297")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" "https://tech.alpsalpine.com/e/products/category/switches/sub/03/series/spuj/"
+		(at 3.75 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "91f29134-203b-4cdf-8499-f9296ed900c6")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "ALPS SPUJ Series SPUJ190900"
+		(at 3.75 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79c83b94-7a3e-4c56-953f-09cc416b19d5")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -19.2 -1.4)
+		(end -8.7 -1.4)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b0d35fae-8486-4a7e-ba4f-144acec09c68")
+	)
+	(fp_line
+		(start -19.2 0)
+		(end -19.2 -1.4)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "32d3b1c2-45da-483c-a23a-e331f8e80cf5")
+	)
+	(fp_line
+		(start -19.2 0)
+		(end -19.2 1.4)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "21d48929-bb26-4445-9094-d3a69b1cfe73")
+	)
+	(fp_line
+		(start -19.2 1.4)
+		(end -8.7 1.4)
+		(stroke
+			(width 0.5)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "558fbb6b-4981-4218-b7b0-2aeb1cd5bcae")
+	)
+	(fp_rect
+		(start -8.7 -3.65)
+		(end 5.75 3.6)
+		(stroke
+			(width 0.5)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a35fe953-c81d-4163-9687-588a6ad3e569")
+	)
+	(pad "1" thru_hole circle
+		(at 2.5 1.25)
+		(size 1.7 1.7)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7c8e95c0-fd74-4f28-aa54-037db6816e9f")
+	)
+	(pad "2" thru_hole circle
+		(at 0 1.25)
+		(size 1.7 1.7)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "fb31212d-70b7-4ab7-bb02-3ad8117b36f5")
+	)
+	(pad "3" thru_hole circle
+		(at -2.5 1.25)
+		(size 1.7 1.7)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "807bf5aa-5478-4750-a5b3-2e6a0c260fcf")
+	)
+	(pad "4" thru_hole circle
+		(at 2.5 -1.25)
+		(size 1.7 1.7)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "22955e96-a542-4427-b102-bf10c5f3079f")
+	)
+	(pad "5" thru_hole circle
+		(at 0 -1.25)
+		(size 1.7 1.7)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "87d1b2a8-e244-4304-a746-385f04caaae2")
+	)
+	(pad "6" thru_hole circle
+		(at -2.5 -1.25)
+		(size 1.7 1.7)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "08673d17-ad44-47d8-9097-d1597b4c5d32")
+	)
+)
