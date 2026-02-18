@@ -23260,7 +23260,7 @@
 			(justify left)
 		)
 	)
-	(gr_text "SW1\nIN - EXTERNAL STEREO\nOUT - INTERNAL MONO"
+	(gr_text "SW1\nIN - INTERNAL MONO\nOUT - EXTERNAL STEREO"
 		(at 66.9 132.7 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005ff4827f")
@@ -26241,6 +26241,34 @@
 		(polygon
 			(pts
 				(xy 50 30.6) (xy 49.975 159.75) (xy 227.6 159.7) (xy 227.675 30.6)
+			)
+		)
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layers "F&B.Cu")
+		(uuid "222d382b-8190-4a37-bb89-1c473efaf6e8")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads allowed)
+			(copperpour not_allowed)
+			(footprints allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy 217.4 64.6) (xy 215 64.6) (xy 215 125.5) (xy 217.4 125.5)
 			)
 		)
 	)
