@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "rgb-board-rescue")(type "KiCad")(uri "${KIPRJMOD}/rgb-board-rescue.kicad_sym")(options "")(descr ""))
+  (lib (name "pbsw_4pdt")(type "KiCad")(uri "${KIPRJMOD}/pbsw_4pdt.kicad_sym")(options "")(descr ""))
 )
