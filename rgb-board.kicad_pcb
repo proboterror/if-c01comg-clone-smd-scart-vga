@@ -25113,46 +25113,6 @@
 		)
 	)
 	(gr_line
-		(start 71.12 121.92)
-		(end 71.12 104.14)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "00000000-0000-0000-0000-00005ff474c2")
-	)
-	(gr_line
-		(start 71.12 104.14)
-		(end 106.68 104.14)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "0993f8e0-9798-4ae0-80d5-403124e771f5")
-	)
-	(gr_line
-		(start 106.68 104.14)
-		(end 106.68 121.92)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "0d268fdc-e0bc-4c43-b01e-db839d93e698")
-	)
-	(gr_line
-		(start 106.68 121.92)
-		(end 71.12 121.92)
-		(stroke
-			(width 0.15)
-			(type solid)
-		)
-		(layer "F.SilkS")
-		(uuid "3d2e06b1-820a-42a5-975f-278b93994bb2")
-	)
-	(gr_line
 		(start 236.5 127.4)
 		(end 236.5 127.375)
 		(stroke
@@ -25442,7 +25402,7 @@
 		(layer "Edge.Cuts")
 		(uuid "f9200c71-12ad-479b-8fbd-4986289341cd")
 	)
-	(gr_text "D101-D110: BAT46W (SOD-123)\nD201: BZT52C12 (12V Zener, SOD-123)\n\nAll transistors (Q101, Q102, ...): BC850\n\nC101,102,103: 47uF/25V E-cap\nC104,105,120,122: 10uF/25V E-cap\nC115,207: 100 uF/16V E-Cap\nC114,116,117,118,119,206: 100 nF/25V MLCC\nC203: 1 uF/50V E-Cap\nC121: 1 uF/25V MLCC\nC201,202,205: 180 pF MLCC\nC204: 39 pF MLCC\nMLCC caps are 0805\n\nR101,115,129,143,152: 75 Ohm\nR104,114,118,128,132,142,146,155: 100 Ohm\nR113,127,141: 390 Ohm\nR105,119,133,203: 56 kOhm\nR106,120,134,147,148,156,157: 33 kOhm\nR107,121,135: 1.5 kOhm\nR202: 1 kOhm\nR204: 68 kOhm\nR149,158,205: 2.7 kOhm\nR3: 20 kOhm\nR1,2: 470 Ohm\nAll resistors: 0805 1% tolerance\n\nU1: NCP1117-12 (SOT-223)\n\nSW1: LC2259EENP\n\nSCART: Ninigi right angled\n(or similar)\n\nBNC: Adam Tech 75 Ohm Right angled\n(or similar)"
+	(gr_text "D101-D110: BAT46W (SOD-123)\nD201: BZT52C12 (12V Zener, SOD-123)\n\nAll transistors (Q101, Q102, ...): BC850\n\nC101,102,103: 47uF/25V E-cap\nC104,105,120,122: 10uF/25V E-cap\nC115,207: 100 uF/16V E-Cap\nC114,116,117,118,119,206: 100 nF/25V MLCC\nC203: 1 uF/50V E-Cap\nC121: 1 uF/25V MLCC\nC201,202,205: 180 pF MLCC\nC204: 39 pF MLCC\nMLCC caps are 0805\n\nR101,115,129,143,152: 75 Ohm\nR104,114,118,128,132,142,146,155: 100 Ohm\nR113,127,141: 390 Ohm\nR105,119,133,203: 56 kOhm\nR106,120,134,147,148,156,157: 33 kOhm\nR107,121,135: 1.5 kOhm\nR202: 1 kOhm\nR204: 68 kOhm\nR149,158,205: 2.7 kOhm\nR3: 20 kOhm\nR1,2: 470 Ohm\nAll resistors: 0805 1% tolerance\n\nU1: NCP1117-12 (SOT-223)\n\nSW1: LC2259EENP\n\nSCART: Ninigi right angled\n(or similar)"
 		(at 157.1 94.05 0)
 		(layer "F.SilkS")
 		(uuid "00000000-0000-0000-0000-00005ff3f631")
@@ -25466,7 +25426,7 @@
 			(justify left)
 		)
 	)
-	(gr_text "JVC IF-C01COMG (RGB/YPbPr) SCART/BNC SMD CLONE BOARD\n(2021) Martin Hejnfelt (martin@hejnfelt.com)\n\nDual input idea credit goes to James Vanderloeff!\n"
+	(gr_text "JVC IF-C01COMG (RGB/YPbPr) SCART/DSUB-15 SMD CLONE BOARD\n(2021) Martin Hejnfelt (martin@hejnfelt.com)\nMod github.com/proboterror/if-c01comg-clone-smd-scart-vga\n"
 		(at 182.45 39.675 0)
 		(layer "F.SilkS")
 		(uuid "1ae69545-2af3-4f06-8ec3-7ab88ba99a7f")
@@ -25485,17 +25445,6 @@
 			(font
 				(size 1.5 1.5)
 				(thickness 0.3)
-			)
-		)
-	)
-	(gr_text "Do NOT mount\nthis section\nwhen using SCART"
-		(at 110.49 112.9665 90)
-		(layer "F.SilkS")
-		(uuid "8cc21f99-bd41-46e1-895a-ea432071227c")
-		(effects
-			(font
-				(size 1.2 1.2)
-				(thickness 0.25)
 			)
 		)
 	)
