@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name rgb-board-rescue)(type Legacy)(uri ${KIPRJMOD}/rgb-board-rescue.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "rgb-board-rescue")(type "KiCad")(uri "${KIPRJMOD}/rgb-board-rescue.kicad_sym")(options "")(descr ""))
 )
