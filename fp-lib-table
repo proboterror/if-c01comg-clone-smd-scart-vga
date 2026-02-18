@@ -2,4 +2,5 @@
   (lib (name ninigi-scart-ra)(type KiCad)(uri "$(KIPRJMOD)/ninigi-scart-ra.pretty")(options "")(descr ""))
   (lib (name rcj-41x)(type KiCad)(uri "$(KIPRJMOD)/rcj-41x.pretty")(options "")(descr ""))
   (lib (name LC2259)(type KiCad)(uri "$(KIPRJMOD)/LC2259.pretty")(options "")(descr ""))
+  (lib (name HD15-VGA)(type KiCad)(uri "$(KIPRJMOD)/hd15-vga.pretty")(options "")(descr ""))
 )
