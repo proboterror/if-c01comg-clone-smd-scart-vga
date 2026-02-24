@@ -21757,7 +21757,7 @@
 			(layer "F.SilkS")
 			(uuid "7ca738de-6395-4c3c-92b3-5da8b7667a6f")
 		)
-		(pad "0" thru_hole circle
+		(pad "0" thru_hole rect
 			(at -12.49172 0 270)
 			(size 4.2 4.2)
 			(drill oval 3.1 2)
@@ -21767,7 +21767,7 @@
 			(pintype "passive+no_connect")
 			(uuid "c17fc5bb-d2dc-4fe2-aeae-786cec5115a3")
 		)
-		(pad "0" thru_hole circle
+		(pad "0" thru_hole rect
 			(at 12.49172 0 270)
 			(size 4.2 4.2)
 			(drill oval 3.1 2)
