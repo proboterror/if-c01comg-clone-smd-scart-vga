@@ -19110,7 +19110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Relay_THT:Relay_DPDT_Omron_G6K-2P"
+		(property "Footprint" "Omron_G6K-2P:Relay_DPDT_Omron_G6K-2P"
 			(at 140.97 219.71 0)
 			(effects
 				(font

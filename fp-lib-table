@@ -3,4 +3,5 @@
   (lib (name "ninigi-scart-ra")(type "KiCad")(uri "$(KIPRJMOD)/ninigi-scart-ra.pretty")(options "")(descr ""))
   (lib (name "HD15-VGA")(type "KiCad")(uri "$(KIPRJMOD)/hd15-vga.pretty")(options "")(descr ""))
   (lib (name "ALPS_SPUJ")(type "KiCad")(uri "$(KIPRJMOD)/ALPS_SPUJ.pretty")(options "")(descr ""))
+  (lib (name "Omron_G6K-2P")(type "KiCad")(uri "${KIPRJMOD}/Omron_G6K-2P.pretty")(options "")(descr ""))
 )
